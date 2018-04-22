@@ -1,0 +1,4 @@
+matplotlib==2.2.0
+skyfield==1.1
+jinja2
+mpld3
