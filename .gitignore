@@ -99,3 +99,10 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# project specific
+*.dat
+*.data
+*.preds
+*.bsp
+
